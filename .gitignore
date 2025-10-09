@@ -1,0 +1,19 @@
+# База данных
+phonebook.db
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.env
+
+# Экспорты и локальные файлы
+*.json
+*.csv
+
+# Системные файлы
+.DS_Store
+Thumbs.db
